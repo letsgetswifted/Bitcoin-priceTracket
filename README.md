@@ -1,3 +1,4 @@
 # Bitcoin-priceTracket
 Track bitcoin price
-Bitcoin-priceTracker.png
+https://github.com/letsgetswifted/Bitcoin-priceTracket/blob/master/Bitcoin-priceTracker.png
+
